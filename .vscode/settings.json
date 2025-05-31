@@ -1,0 +1,4 @@
+{
+    // Python 언어 서버에게 "etc 폴더 안의 .py 파일들을 모듈로 간주"하라는 명령
+    "python.analysis.extraPaths": ["./etc"]
+}
